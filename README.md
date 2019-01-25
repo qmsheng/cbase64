@@ -8,6 +8,7 @@
 
 
 # 应用示例：
+```lua
 local _M = {
     _VERSION = '0.01'
 }
@@ -35,4 +36,5 @@ function _M.base64_decode(str)
 end
 
 return _M
+```
 
